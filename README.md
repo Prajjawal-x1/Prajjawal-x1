@@ -6,6 +6,7 @@
 💡 Currently expanding my skills in Python, Go, and Full-Stack Web Development
 💻 Enthusiastic about contributing to open-source projects and real-world applications
 ⚽ Football lover & 📖 Avid book reader
+
 🔹 Tech Stack
 💻 Languages: Python | Go | JavaScript
 🌐 Web Development: HTML | CSS | React | Node.js
